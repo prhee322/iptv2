@@ -99,6 +99,99 @@ http://i.mjh.nz/au/Melbourne/tv.46.m3u8|X-Forwarded-For=52.62.247.239&User-Agent
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
 http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
+
+
+#EXTINF:-1,SBS - Seoul
+http://112.171.72.250:9981/stream/channelid/523101768
+#EXTINF:-1,SBS - Seoul
+http://183.98.98.136:9981/stream/channelid/609791124
+
+#EXTINF:-1,KBS2
+http://221.167.233.226:9981/stream/channelid/2009309359
+
+#EXTINF:-1,KBS2
+http://183.98.98.136:9981/stream/channelid/925789336
+#EXTINF:-1,KBS2
+http://61.83.231.197:9981/stream/channelid/1647950118
+#EXTINF:-1,KBS2
+http://61.83.231.197:9981/stream/channelid/289775198
+#EXTINF:-1,KBS2
+http://61.83.231.197:9981/stream/channelid/860831958
+
+#EXTINF:-1,MBC
+http://221.167.233.226:9981/stream/channelid/402136436
+
+#EXTINF:-1,MBC
+http://183.98.98.136:9981/stream/channelid/671462733
+#EXTINF:-1,MBC
+http://61.83.231.197:9981/stream/channelid/1640435528
+#EXTINF:-1,MBC
+http://61.83.231.197:9981/stream/channelid/1364058329
+#EXTINF:-1,MBC 
+http://61.83.231.197:9981/stream/channelid/1532852052
+
+
+#EXTINF:-1,tvN
+http://123.111.57.229:9981/stream/channelid/18
+
+#EXTINF:-1,tvN
+http://221.167.233.226:9981/stream/channelid/104062515
+
+#EXTINF:-1,tvN
+http://61.83.231.197:9981/stream/channelid/1831623812
+#EXTINF:-1,tvN
+http://222.109.243.145:9981/stream/channelid/930581264
+
+#EXTINF:-1,JTBC
+http://123.111.57.229:9981/stream/channelid/23
+
+#EXTINF:-1,JTBC
+http://61.83.231.197:9981/stream/channelid/2089632151
+#EXTINF:-1,JTBC
+http://61.83.231.197:9981/stream/channelid/1266575780
+
+#EXTINF:-1,OCN
+http://61.83.231.197:9981/stream/channelid/1641844404
+#EXTINF:-1,OCN
+http://123.111.57.229:9981/stream/channelid/24
+
+#EXTINF:-1,수퍼액션
+http://123.111.57.229:9981/stream/channelid/54
+
+#EXTINF:-1,스크린
+http://123.111.57.229:9981/stream/channelid/53
+#EXTINF:-1,CGV
+http://123.111.57.229:9981/stream/channelid/19
+
+#EXTINF:-1,투니버스
+http://123.111.57.229:9981/stream/channelid/64
+
+#EXTINF:-1,KBS1
+http://221.167.233.226:9981/stream/channelid/1331641717
+
+
+#EXTINF:-1,KBS1
+http://183.98.98.136:9981/stream/channelid/1764924130
+#EXTINF:-1,KBS1
+http://183.98.98.136:9981/stream/channelid/1764924130ticket=241FA823A61835DBF54A827D3939F16E2284FB15&profile=pass
+
+
+
+#EXTINF:-1,EBS
+http://183.98.98.136:9981/stream/channelid/622397827
+#EXTINF:-1,EBS
+http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
+#EXTINF:-1 tvg-name="EBS 1" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/s1y2zoe.png",EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:-1 tvg-name="EBS 2" tvg-id="" group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/300px-EBS_Logo.svg.png",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="EBS e" tvg-id="" group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/300px-EBS_Logo.svg.png",EBS e
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+
+#EXTINF:-1,SPOTV
+http://123.111.57.229:9981/stream/channelid/91
+
 #EXTINF:-1,SPOTV
 http://59.28.86.246:9981/stream/channelid/69
 
@@ -117,93 +210,6 @@ http://188.40.76.108:25461/mytv01/uSIRzmks51/227
 #EXTINF:-1,SKY SPORTS FOOTBALL | HD
 http://lotustv.be:80/Test1/Test1/201119
 
-#EXTINF:-1,KBS1
-http://221.167.233.226:9981/stream/channelid/1331641717
-#EXTINF:-1,KBS2
-http://221.167.233.226:9981/stream/channelid/2009309359
-#EXTINF:-1,MBC
-http://221.167.233.226:9981/stream/channelid/402136436
-#EXTINF:-1,tvN
-http://221.167.233.226:9981/stream/channelid/104062515
-
-#EXTINF:-1,Ranking
-http://183.98.98.136:9981/stream/channelid/3748357
-#EXTINF:-1,SBS - Seoul
-http://112.171.72.250:9981/stream/channelid/523101768
-#EXTINF:-1,SBS - Seoul
-http://183.98.98.136:9981/stream/channelid/609791124
-
-#EXTINF:-1,KBS1
-http://183.98.98.136:9981/stream/channelid/1764924130
-#EXTINF:-1,KBS1
-http://183.98.98.136:9981/stream/channelid/1764924130ticket=241FA823A61835DBF54A827D3939F16E2284FB15&profile=pass
-
-#EXTINF:-1,KBS2
-http://183.98.98.136:9981/stream/channelid/925789336
-#EXTINF:-1,KBS2
-http://61.83.231.197:9981/stream/channelid/1647950118
-#EXTINF:-1,KBS2
-http://61.83.231.197:9981/stream/channelid/289775198
-#EXTINF:-1,KBS2
-http://61.83.231.197:9981/stream/channelid/860831958
-
-#EXTINF:-1,MBC
-http://183.98.98.136:9981/stream/channelid/671462733
-#EXTINF:-1,MBC
-http://61.83.231.197:9981/stream/channelid/1640435528
-#EXTINF:-1,MBC
-http://61.83.231.197:9981/stream/channelid/1364058329
-#EXTINF:-1,MBC 
-http://61.83.231.197:9981/stream/channelid/1532852052
-
-
-#EXTINF:-1,JTBC
-http://123.111.57.229:9981/stream/channelid/23
-
-#EXTINF:-1,JTBC
-http://61.83.231.197:9981/stream/channelid/2089632151
-#EXTINF:-1,JTBC
-http://61.83.231.197:9981/stream/channelid/1266575780
-
-#EXTINF:-1,tvN
-http://123.111.57.229:9981/stream/channelid/18
-#EXTINF:-1,tvN
-http://61.83.231.197:9981/stream/channelid/1831623812
-#EXTINF:-1,tvN
-http://222.109.243.145:9981/stream/channelid/930581264
-
-#EXTINF:-1,OCN
-http://61.83.231.197:9981/stream/channelid/1641844404
-#EXTINF:-1,OCN
-http://123.111.57.229:9981/stream/channelid/24
-
-#EXTINF:-1,수퍼액션
-http://123.111.57.229:9981/stream/channelid/54
-
-#EXTINF:-1,스크린
-http://123.111.57.229:9981/stream/channelid/53
-#EXTINF:-1,CGV
-http://123.111.57.229:9981/stream/channelid/19
-
-#EXTINF:-1,투니버스
-http://123.111.57.229:9981/stream/channelid/64
-
-
-
-#EXTINF:-1,EBS
-http://183.98.98.136:9981/stream/channelid/622397827
-#EXTINF:-1,EBS
-http://183.98.98.136:9981/stream/channelid/622397827ticket=A4AAD56188087E18371E70D171F8B63AD9559FFD&profile=pass
-#EXTINF:-1 tvg-name="EBS 1" tvg-id="" group-title="KOREA" tvg-logo="https://i.imgur.com/s1y2zoe.png",EBS 1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 tvg-name="EBS 2" tvg-id="" group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/300px-EBS_Logo.svg.png",EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS e" tvg-id="" group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/300px-EBS_Logo.svg.png",EBS e
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-name="EBS Kids" tvg-id="" group-title="KOREA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/300px-EBS_Logo.svg.png",EBS Kids
-
-#EXTINF:-1,SPOTV
-http://123.111.57.229:9981/stream/channelid/91
 #EXTINF:-1,SPOTV2
 http://123.111.57.229:9981/stream/channelid/92
 
@@ -230,7 +236,6 @@ http://speccy.pw:8008/superman/superman/17844
 http://speccy.pw:8008/superman/superman/17845
 #EXTINF:-1,Premier League 10 (Events Only)
 http://speccy.pw:8008/superman/superman/17846
-
 
 
 
