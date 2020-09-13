@@ -100,6 +100,9 @@ http://i.mjh.nz/au/Melbourne/tv.46.m3u8|X-Forwarded-For=52.62.247.239&User-Agent
 http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 
+#EXTINF:-1,*ESPN HD
+http://66.northerniptv.ca:8000/terri123/terri123/143
+
 #EXTINF:-1,KBS1
 http://221.167.233.226:9981/stream/channelid/1331641717
 #EXTINF:-1,KBS2
