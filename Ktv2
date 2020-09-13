@@ -103,6 +103,9 @@ http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-Ag
 #EXTINF:-1,*ESPN HD
 http://66.northerniptv.ca:8000/terri123/terri123/143
 
+#EXTINF:-1,BT Sport 1
+http://188.40.76.108:25461/mytv01/uSIRzmks51/227
+
 #EXTINF:-1,KBS1
 http://221.167.233.226:9981/stream/channelid/1331641717
 #EXTINF:-1,KBS2
