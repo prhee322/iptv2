@@ -130,6 +130,8 @@ http://61.83.231.197:9981/stream/channelid/1364058329
 #EXTINF:-1,MBC 
 http://61.83.231.197:9981/stream/channelid/1532852052
 
+#EXTINF:-1,tvN
+http://58.229.38.125:9981/stream/channelid/1021327889
 
 #EXTINF:-1,tvN
 http://123.111.57.229:9981/stream/channelid/18
