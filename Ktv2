@@ -203,6 +203,12 @@ http://59.9.135.103:9981/stream/channelid/1725776312
 #EXTINF:-1,SPOTV
 http://1.247.191.130:9981/stream/channelid/1635532511
 
+
+#EXTINF:-1,SPOTV+
+http://1.247.191.130:9981/stream/channelid/6466065
+#EXTINF:-1,SPOTV2
+http://1.247.191.130:9981/stream/channelid/1533116674
+
 #EXTINF:-1,*ESPN HD
 http://66.northerniptv.ca:8000/terri123/terri123/143
 
