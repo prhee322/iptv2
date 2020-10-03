@@ -118,6 +118,35 @@ http://61.83.231.197:9981/stream/channelid/289775198
 #EXTINF:-1,KBS2
 http://61.83.231.197:9981/stream/channelid/860831958
 
+#EXTINF:-1,tvN
+http://58.229.38.125:9981/stream/channelid/1021327889
+#EXTINF:-1,SBS
+http://58.229.38.125:9981/stream/channelid/96478570
+#EXTINF:-1,KBS2
+http://58.229.38.125:9981/stream/channelid/1022901635
+#EXTINF:-1,KBS1
+http://58.229.38.125:9981/stream/channelid/998419020
+#EXTINF:-1,MBC
+http://58.229.38.125:9981/stream/channelid/692533191
+#EXTINF:-1,EBS1
+http://58.229.38.125:9981/stream/channelid/469954828
+#EXTINF:-1,JTBC
+http://58.229.38.125:9981/stream/channelid/48266086
+#EXTINF:-1,OBS
+http://58.229.38.125:9981/stream/channelid/1586076528
+#EXTINF:-1,Mnet
+http://58.229.38.125:9981/stream/channelid/1436586431
+#EXTINF:-1,MBC Every1
+http://58.229.38.125:9981/stream/channelid/771510733
+#EXTINF:-1,SBS F!L UHD
+http://58.229.38.125:9981/stream/channelid/1998526477
+#EXTINF:-1,SBS fun E
+http://58.229.38.125:9981/stream/channelid/845673287
+#EXTINF:-1,SBS MTV
+http://58.229.38.125:9981/stream/channelid/314846796
+#EXTINF:-1,MBC MUSIC
+http://58.229.38.125:9981/stream/channelid/354886092
+
 #EXTINF:-1,MBC
 http://121.136.175.131:9981/stream/channelid/2138269013
 #EXTINF:-1,MBC
