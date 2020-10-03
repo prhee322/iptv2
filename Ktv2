@@ -118,6 +118,23 @@ http://61.83.231.197:9981/stream/channelid/289775198
 #EXTINF:-1,KBS2
 http://61.83.231.197:9981/stream/channelid/860831958
 
+#EXTINF:-1,MBC https://iptv.live
+http://59.9.135.103:9981/stream/channelid/1673215763
+#EXTINF:-1,MBC
+http://59.9.135.103:9981/stream/channelid/452685630
+#EXTINF:-1,MBC
+http://59.9.135.103:9981/stream/channelid/156755188
+#EXTINF:-1,MBC
+http://59.9.135.103:9981/stream/channelid/1275108637
+#EXTINF:-1,MBC
+http://59.9.135.103:9981/stream/channelid/1241671977
+#EXTINF:-1,MBC
+http://59.9.135.103:9981/stream/channelid/1962410077
+#EXTINF:-1,MBC
+http://59.9.135.103:9981/stream/channelid/895877966
+#EXTINF:-1,MBC
+http://59.9.135.103:9981/stream/channelid/1002277508
+
 #EXTINF:-1,MBC
 http://221.167.233.226:9981/stream/channelid/402136436
 
