@@ -148,6 +148,9 @@ http://58.229.38.125:9981/stream/channelid/314846796
 http://58.229.38.125:9981/stream/channelid/354886092
 
 #EXTINF:-1,MBC
+http://1.255.204.45:9981/stream/channelid/276171895
+
+#EXTINF:-1,MBC
 http://121.136.175.131:9981/stream/channelid/2138269013
 #EXTINF:-1,MBC
 http://121.136.175.131:9981/stream/channelid/1674423178
