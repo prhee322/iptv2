@@ -130,6 +130,10 @@ http://58.229.38.125:9981/stream/channelid/96478570
 http://58.229.38.125:9981/stream/channelid/1022901635
 #EXTINF:-1,KBS1
 http://58.229.38.125:9981/stream/channelid/998419020
+
+#EXTINF:-1,MBC
+http://121.161.37.209:9981/stream/channelid/134479959
+
 #EXTINF:-1,MBC
 http://58.229.38.125:9981/stream/channelid/692533191
 #EXTINF:-1,EBS1
