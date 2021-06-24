@@ -1,109 +1,126 @@
-#EXTM3U x-tvg-url="http://i.mjh.nz/au/Melbourne/epg.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="tv.101406030635" tvg-logo="http://i.mjh.nz/.images/tv.101406030635.png",TEN
-http://i.mjh.nz/au/Melbourne/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101406030633" tvg-logo="https://i.mjh.nz/.images/tv.101406030633.png",10 Shake
+https://i.mjh.nz/au/Melbourne/tv.101406030633.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101406030638" tvg-logo="http://i.mjh.nz/.images/tv.101406030638.png",10 Peach
-http://i.mjh.nz/au/Melbourne/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101406030638" tvg-logo="https://i.mjh.nz/.images/tv.101406030638.png",10 Peach
+https://i.mjh.nz/au/Melbourne/tv.101406030638.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101406030631" tvg-logo="http://i.mjh.nz/.images/tv.101406030631.png",10 Bold
-http://i.mjh.nz/au/Melbourne/tv.101406030631.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101406030637" tvg-logo="https://i.mjh.nz/.images/tv.101406030637.png",10 Bold
+https://i.mjh.nz/au/Melbourne/tv.101406030637.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101406030635" tvg-logo="https://i.mjh.nz/.images/tv.101406030635.png",10
+https://i.mjh.nz/au/Melbourne/tv.101406030635.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png",openshop
-http://i.mjh.nz/au/Melbourne/tv.7openshop.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.7openshop.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png",ausbiz TV
-http://i.mjh.nz/au/Melbourne/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101305030530" tvg-logo="http://i.mjh.nz/.images/tv.101305030530.png",Seven
-http://i.mjh.nz/au/Melbourne/tv.101305030530.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101305030530" tvg-logo="https://i.mjh.nz/.images/tv.101305030530.png",Seven
+https://i.mjh.nz/au/Melbourne/tv.101305030530.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="http://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
-http://i.mjh.nz/au/Melbourne/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png",RACING.COM
+https://i.mjh.nz/au/Melbourne/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png",PAC-12
-http://i.mjh.nz/au/Melbourne/tv.7pac12.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.7pac12.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel
-http://i.mjh.nz/au/Melbourne/tv.7outdoor.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.7outdoor.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png",Olympics Channel
-http://i.mjh.nz/au/Melbourne/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png",Fuel TV
-http://i.mjh.nz/au/Melbourne/tv.7fueltv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.7fueltv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101305030533" tvg-logo="http://i.mjh.nz/.images/tv.101305030533.png",7mate
-http://i.mjh.nz/au/Melbourne/tv.101305030533.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101305030533" tvg-logo="https://i.mjh.nz/.images/tv.101305030533.png",7mate
+https://i.mjh.nz/au/Melbourne/tv.101305030533.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101305030535" tvg-logo="http://i.mjh.nz/.images/tv.101305030535.png",7flix
-http://i.mjh.nz/au/Melbourne/tv.101305030535.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101305030535" tvg-logo="https://i.mjh.nz/.images/tv.101305030535.png",7flix
+https://i.mjh.nz/au/Melbourne/tv.101305030535.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101305030532" tvg-logo="http://i.mjh.nz/.images/tv.101305030532.png",7TWO
-http://i.mjh.nz/au/Melbourne/tv.101305030532.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101305030532" tvg-logo="https://i.mjh.nz/.images/tv.101305030532.png",7TWO
+https://i.mjh.nz/au/Melbourne/tv.101305030532.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="http://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
-http://i.mjh.nz/au/Melbourne/tv.320203000307.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png",SBS World Movies
+https://i.mjh.nz/au/Melbourne/tv.320203000307.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="http://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
-http://i.mjh.nz/au/Melbourne/tv.320203000303.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png",SBS VICELAND
+https://i.mjh.nz/au/Melbourne/tv.320203000303.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="http://i.mjh.nz/.images/tv.320203000304.png",SBS Food
-http://i.mjh.nz/au/Melbourne/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png",SBS Food
+https://i.mjh.nz/au/Melbourne/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="http://i.mjh.nz/.images/tv.320203000301.png",SBS
-http://i.mjh.nz/au/Melbourne/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png",SBS
+https://i.mjh.nz/au/Melbourne/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="http://i.mjh.nz/.images/tv.320203000305.png",NITV
-http://i.mjh.nz/au/Melbourne/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png",NITV
+https://i.mjh.nz/au/Melbourne/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101204300430" tvg-logo="http://i.mjh.nz/.images/tv.101204300430.png",Channel 9
-http://i.mjh.nz/au/Melbourne/tv.101204300430.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101204300430" tvg-logo="https://i.mjh.nz/.images/tv.101204300430.png",Nine
+https://i.mjh.nz/au/Melbourne/tv.101204300430.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101204300438" tvg-logo="http://i.mjh.nz/.images/tv.101204300438.png",9Rush Melbourne
-http://i.mjh.nz/au/Melbourne/tv.101204300438.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101204300438" tvg-logo="https://i.mjh.nz/.images/tv.101204300438.png",9Rush
+https://i.mjh.nz/au/Melbourne/tv.101204300438.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101204300433" tvg-logo="http://i.mjh.nz/.images/tv.101204300433.png",9Life
-http://i.mjh.nz/au/Melbourne/tv.101204300433.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101204300433" tvg-logo="https://i.mjh.nz/.images/tv.101204300433.png",9Life
+https://i.mjh.nz/au/Melbourne/tv.101204300433.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101204300437" tvg-logo="http://i.mjh.nz/.images/tv.101204300437.png",9Go!
-http://i.mjh.nz/au/Melbourne/tv.101204300437.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101204300437" tvg-logo="https://i.mjh.nz/.images/tv.101204300437.png",9Go!
+https://i.mjh.nz/au/Melbourne/tv.101204300437.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101204300436" tvg-logo="http://i.mjh.nz/.images/tv.101204300436.png",9Gem
-http://i.mjh.nz/au/Melbourne/tv.101204300436.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.101204300436" tvg-logo="https://i.mjh.nz/.images/tv.101204300436.png",9Gem
+https://i.mjh.nz/au/Melbourne/tv.101204300436.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="http://i.mjh.nz/.images/tv.101002210220.png",ABC News
-https://c.mjh.nz/101002210220/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="http://i.mjh.nz/.images/tv.101002210224.png",ABC Me
-https://c.mjh.nz/101002210224/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/.images/tv.abckids.png",ABC KIDS
-https://c.mjh.nz/101002210222/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png",ABC Comedy
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png",ABC TV Plus
 https://c.mjh.nz/abc2/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.101002310231" tvg-logo="http://i.mjh.nz/.images/tv.101002310231.png",ABC
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png",ABC News
+https://c.mjh.nz/101002210220/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png",ABC Me
+https://c.mjh.nz/101002210224/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
+https://c.mjh.nz/101002210222/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101002310231" tvg-logo="https://i.mjh.nz/.images/tv.101002310231.png",ABC
 https://c.mjh.nz/101002310231/|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
-http://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.skyrtc" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Racing - Thoroughbred Central
+https://i.mjh.nz/au/Melbourne/tv.skyrtc.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-logo="http://i.mjh.nz/.images/tv.fox.sports.news.png",Fox Sports News
-http://i.mjh.nz/au/Melbourne/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-id="tv.sky2rw" tvg-logo="https://i.mjh.nz/.images/tv.sky2rw.png",Sky Racing #2
+https://i.mjh.nz/au/Melbourne/tv.sky2rw.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.sky1rw" tvg-logo="https://i.mjh.nz/.images/tv.sky1rw.png",Sky Racing #1
+https://i.mjh.nz/au/Melbourne/tv.sky1rw.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png",Redbull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.cna" tvg-logo="https://i.mjh.nz/.images/tv.cna.png",Channel News Asia (CNA)
+https://i.mjh.nz/au/Melbourne/tv.cna.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.c31" tvg-logo="https://i.mjh.nz/.images/tv.c31.png",Channel 31
+https://i.mjh.nz/au/Melbourne/tv.c31.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.bloomberg" tvg-logo="https://i.mjh.nz/.images/tv.bloomberg.png",Bloomberg Australia
+https://i.mjh.nz/au/Melbourne/tv.bloomberg.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png",Al Jazeera
-http://i.mjh.nz/au/Melbourne/tv.46.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.46.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png",ACCTV
-http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1,UK: BBC One UHD
-http://185.63.253.165:80/sbwtt9jwfP/lhz7Xnlc58/24419
+#EXTINF:-1 tvg-id="tv.3aw.melbourne" tvg-logo="https://i.mjh.nz/.images/tv.3aw.melbourne.png",3AW Melbourne
+https://i.mjh.nz/au/Melbourne/tv.3aw.melbourne.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 
-#EXTINF:-1,BBC ONE HD
-http://87.75.116.101:9981/stream/channelid/2021584727
+
 
 #EXTINF:-1,SBS - Seoul
 http://112.171.72.250:9981/stream/channelid/523101768
@@ -259,200 +276,7 @@ http://1.247.191.130:9981/stream/channelid/6466065
 #EXTINF:-1,SPOTV2
 http://1.247.191.130:9981/stream/channelid/1533116674
 
-#EXTINF:-1,*ESPN HD
-http://66.northerniptv.ca:8000/terri123/terri123/143
-
-#EXTINF:-1,BT Sport 1
-http://188.40.76.108:25461/mytv01/uSIRzmks51/227
-
-#EXTINF:-1,SKY SPORTS FOOTBALL | HD
-http://lotustv.be:80/Test1/Test1/201119
 
 #EXTINF:-1,SPOTV2
 http://123.111.57.229:9981/stream/channelid/92
-
-#EXTINF:-1,MBC ON
-http://124.56.193.235:9981/stream/channelid/680608559
-#EXTINF:-1,SBS스포츠
-http://124.56.193.235:9981/stream/channelid/1237834836
-#EXTINF:-1,MBN
-http://124.56.193.235:9981/stream/channelid/1546474680
-#EXTINF:-1,TV조선
-http://124.56.193.235:9981/stream/channelid/866476051
-#EXTINF:-1,채널A
-http://124.56.193.235:9981/stream/channelid/284412392
-#EXTINF:-1,SBS
-http://124.56.193.235:9981/stream/channelid/518736772
-#EXTINF:-1,KBS 1TV
-http://124.56.193.235:9981/stream/channelid/1656538844
-#EXTINF:-1,MBN Plus
-http://124.56.193.235:9981/stream/channelid/1279495223
-#EXTINF:-1,KBS 2TV
-http://124.56.193.235:9981/stream/channelid/10878703
-#EXTINF:-1,O tvN
-http://124.56.193.235:9981/stream/channelid/2056718939
-#EXTINF:-1,MBC
-http://124.56.193.235:9981/stream/channelid/1409925982
-#EXTINF:-1,YTN
-http://124.56.193.235:9981/stream/channelid/35245421
-#EXTINF:-1,연합뉴스TV
-http://124.56.193.235:9981/stream/channelid/1009572540
-#EXTINF:-1,라이프타임
-http://124.56.193.235:9981/stream/channelid/1591328599
-#EXTINF:-1,더라이프
-http://124.56.193.235:9981/stream/channelid/635479333
-#EXTINF:-1,KBSN 드라마
-http://124.56.193.235:9981/stream/channelid/1520406062
-#EXTINF:-1,KBSN 조이
-http://124.56.193.235:9981/stream/channelid/906373898
-#EXTINF:-1,채널A플러스
-http://124.56.193.235:9981/stream/channelid/249447035
-#EXTINF:-1,KBSN W https://iptv.live
-http://124.56.193.235:9981/stream/channelid/1326606060
-#EXTINF:-1,SBS F!L
-http://124.56.193.235:9981/stream/channelid/1811208580
-#EXTINF:-1,아시아N
-http://124.56.193.235:9981/stream/channelid/1540896683
-#EXTINF:-1,MBC스포츠플러스
-http://124.56.193.235:9981/stream/channelid/1271385249
-#EXTINF:-1,SBS MTV
-http://124.56.193.235:9981/stream/channelid/2039550111
-#EXTINF:-1,우리 동네 예체능
-http://124.56.193.235:9981/stream/channelid/1597616085
-#EXTINF:-1,슈퍼맨이 돌아왔다
-http://124.56.193.235:9981/stream/channelid/1005721388
-#EXTINF:-1,MBC 하이킥24 LIVE
-http://124.56.193.235:9981/stream/channelid/271911691
-#EXTINF:-1,MBC 드라마정주행24 LIVE
-http://124.56.193.235:9981/stream/channelid/2026220004
-#EXTINF:-1,MBC 예능정주행24 LIVE
-http://124.56.193.235:9981/stream/channelid/2089285825
-#EXTINF:-1,JTBC
-http://124.56.193.235:9981/stream/channelid/1283162469
-#EXTINF:-1,채널W
-http://124.56.193.235:9981/stream/channelid/787394659
-#EXTINF:-1,JTBC2
-http://124.56.193.235:9981/stream/channelid/845653123
-#EXTINF:-1,K스타
-http://124.56.193.235:9981/stream/channelid/677039519
-#EXTINF:-1,KBS JOY
-http://124.56.193.235:9981/stream/channelid/1046179098
-#EXTINF:-1,MBC Every1
-http://124.56.193.235:9981/stream/channelid/636399297
-#EXTINF:-1,SBS funE
-http://124.56.193.235:9981/stream/channelid/1335505206
-#EXTINF:-1,STATV
-http://124.56.193.235:9981/stream/channelid/1238818277
-#EXTINF:-1,XtvN
-http://124.56.193.235:9981/stream/channelid/441672372
-#EXTINF:-1,tvN
-http://124.56.193.235:9981/stream/channelid/41393070
-#EXTINF:-1,EDGETV
-http://124.56.193.235:9981/stream/channelid/1356556403
-#EXTINF:-1,KBS DRAMA
-http://124.56.193.235:9981/stream/channelid/1546058361
-#EXTINF:-1,MBC Drama
-http://124.56.193.235:9981/stream/channelid/1025544163
-#EXTINF:-1,SBS Plus
-http://124.56.193.235:9981/stream/channelid/812963662
-#EXTINF:-1,채널차이나
-http://124.56.193.235:9981/stream/channelid/1692360369
-#EXTINF:-1,JTBC골프
-http://124.56.193.235:9981/stream/channelid/1229085329
-#EXTINF:-1,JTBC골프앤스포츠
-http://124.56.193.235:9981/stream/channelid/289931735
-#EXTINF:-1,OGN
-http://124.56.193.235:9981/stream/channelid/878764645
-#EXTINF:-1,SBS골프
-http://124.56.193.235:9981/stream/channelid/1914935820
-#EXTINF:-1,스포티비
-http://124.56.193.235:9981/stream/channelid/1072666429
-#EXTINF:-1,스포티비 골프 앤 헬스
-http://124.56.193.235:9981/stream/channelid/239891846
-#EXTINF:-1,SPOTV2
-http://124.56.193.235:9981/stream/channelid/1555777323
-#EXTINF:-1,MBC M
-http://124.56.193.235:9981/stream/channelid/1919481079
-#EXTINF:-1,엠넷
-http://124.56.193.235:9981/stream/channelid/252355949
-#EXTINF:-1,가요TV
-http://124.56.193.235:9981/stream/channelid/1071821076
-#EXTINF:-1,FUNTV
-http://124.56.193.235:9981/stream/channelid/1122726630
-#EXTINF:-1,KBSN Life https://iptv.live
-http://124.56.193.235:9981/stream/channelid/156745895
-#EXTINF:-1,채널J
-http://124.56.193.235:9981/stream/channelid/1856397465
-#EXTINF:-1,HISTORY
-http://124.56.193.235:9981/stream/channelid/869994911
-#EXTINF:-1,빌리어즈TV
-http://124.56.193.235:9981/stream/channelid/1084596045
-#EXTINF:-1,FTV
-http://124.56.193.235:9981/stream/channelid/237126976
-#EXTINF:-1,JTBC4
-http://124.56.193.235:9981/stream/channelid/939877899
-#EXTINF:-1,KBS W
-http://124.56.193.235:9981/stream/channelid/1976207183
-#EXTINF:-1,올리브
-http://124.56.193.235:9981/stream/channelid/1679354856
-#EXTINF:-1,온스타일
-http://124.56.193.235:9981/stream/channelid/1905206530
-#EXTINF:-1,동아TV
-http://124.56.193.235:9981/stream/channelid/1763102933
-#EXTINF:-1,KBS 1박 2일
-http://124.56.193.235:9981/stream/channelid/1277273894
-#EXTINF:-1,KBS JOY 연애의 참견
-http://124.56.193.235:9981/stream/channelid/1352989790
-#EXTINF:-1,MBC 무한도전
-http://124.56.193.235:9981/stream/channelid/174697234
-#EXTINF:-1,MBC 나 혼자 산다
-http://124.56.193.235:9981/stream/channelid/2081637716
-#EXTINF:-1,MBC 라디오스타
-http://124.56.193.235:9981/stream/channelid/609292015
-#EXTINF:-1,MBC 서프라이즈
-http://124.56.193.235:9981/stream/channelid/1359569645
-#EXTINF:-1,TV동물농장
-http://124.56.193.235:9981/stream/channelid/1615511606
-#EXTINF:-1,런닝맨
-http://124.56.193.235:9981/stream/channelid/1721353841
-#EXTINF:-1,레전드 시트콤
-http://124.56.193.235:9981/stream/channelid/66347542
-#EXTINF:-1,MLB3
-http://124.56.193.235:9981/stream/channelid/952977986
-#EXTINF:-1,미우새
-http://124.56.193.235:9981/stream/channelid/1948408489
-#EXTINF:-1,MLB2
-http://124.56.193.235:9981/stream/channelid/240113796
-#EXTINF:-1,순옥 명작관
-http://124.56.193.235:9981/stream/channelid/888488490
-#EXTINF:-1,MLB1
-http://124.56.193.235:9981/stream/channelid/1286033737
-#EXTINF:-1,스브스 갓드
-http://124.56.193.235:9981/stream/channelid/1687544417
-#EXTINF:-1,PLAYY 프리미엄 영화
-http://124.56.193.235:9981/stream/channelid/1745598172
-#EXTINF:-1,PLAYY 웰메이드 영화
-http://124.56.193.235:9981/stream/channelid/2134293712
-#EXTINF:-1,PLAYY 액션영화
-http://124.56.193.235:9981/stream/channelid/666196352
-#EXTINF:-1,프로야구5
-http://124.56.193.235:9981/stream/channelid/1365132447
-#EXTINF:-1,프로야구4
-http://124.56.193.235:9981/stream/channelid/35020881
-#EXTINF:-1,프로야구3
-http://124.56.193.235:9981/stream/channelid/1656902250
-#EXTINF:-1,프로야구2
-http://124.56.193.235:9981/stream/channelid/824929000
-#EXTINF:-1,프로야구1
-http://124.56.193.235:9981/stream/channelid/123289185
-#EXTINF:-1,PLAYY프리미엄
-http://124.56.193.235:9981/stream/channelid/1280366706
-#EXTINF:-1,PLAYY웰메이드
-http://124.56.193.235:9981/stream/channelid/1734370979
-#EXTINF:-1,채널 다이아
-http://124.56.193.235:9981/stream/channelid/103192736
-#EXTINF:-1,KBSN PLUS
-http://124.56.193.235:9981/stream/channelid/861312178
-#EXTINF:-1,브레인TV
-http://124.56.193.235:9981/stream/channelid/396701349
 
