@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Melbourne/epg.xml"
 
 #EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/seven-mel.png" tvg-chno="7" group-title="Melbourne" , Seven
 https://i.mjh.nz/seven-mel.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -63,11 +63,17 @@ https://i.mjh.nz/racing-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.
 #EXTINF:-1 channel-id="mjh-ausbiz-FAST" tvg-id="mjh-ausbiz-FAST" tvg-logo="https://i.mjh.nz/.images/ausbiz-FAST.png" group-title="Au" , ausbiz
 https://i.mjh.nz/ausbiz-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-iwonderdocumentaries-FAST" tvg-id="mjh-iwonderdocumentaries-FAST" tvg-logo="https://i.mjh.nz/.images/iwonderdocumentaries-FAST.png" group-title="Au" , iWonder Documentaries
-https://i.mjh.nz/iwonderdocumentaries-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:-1 channel-id="mjh-hardcorepawn-FAST" tvg-id="mjh-hardcorepawn-FAST" tvg-logo="https://i.mjh.nz/.images/hardcorepawn-FAST.png" group-title="Au" , Hardcore Pawn
+https://i.mjh.nz/hardcorepawn-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-outdoor-FAST" tvg-id="mjh-outdoor-FAST" tvg-logo="https://i.mjh.nz/.images/outdoor-FAST.png" group-title="Au" , Outdoor Channel
 https://i.mjh.nz/outdoor-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sevenml-FAST" tvg-id="mjh-sevenml-FAST" tvg-logo="https://i.mjh.nz/.images/sevenml-FAST.png" group-title="Au" , Seven
+https://i.mjh.nz/sevenml-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-allsaints-FAST" tvg-id="mjh-allsaints-FAST" tvg-logo="https://i.mjh.nz/.images/allsaints-FAST.png" group-title="Au" , All Saints
+https://i.mjh.nz/allsaints-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-supercarsreplays-FAST" tvg-id="mjh-supercarsreplays-FAST" tvg-logo="https://i.mjh.nz/.images/supercarsreplays-FAST.png" group-title="Au" , Supercars Replays
 https://i.mjh.nz/supercarsreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -78,6 +84,9 @@ https://i.mjh.nz/travelaus-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%20
 #EXTINF:-1 channel-id="mjh-bigbrother-FAST" tvg-id="mjh-bigbrother-FAST" tvg-logo="https://i.mjh.nz/.images/bigbrother-FAST.png" group-title="Au" , Big Brother
 https://i.mjh.nz/bigbrother-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 channel-id="mjh-7mateml-FAST" tvg-id="mjh-7mateml-FAST" tvg-logo="https://i.mjh.nz/.images/7mateml-FAST.png" group-title="Au" , 7mate
+https://i.mjh.nz/7mateml-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 channel-id="mjh-fueltv-FAST" tvg-id="mjh-fueltv-FAST" tvg-logo="https://i.mjh.nz/.images/fueltv-FAST.png" group-title="Au" , FuelTV
 https://i.mjh.nz/fueltv-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
@@ -87,11 +96,20 @@ https://i.mjh.nz/gusto-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0
 #EXTINF:-1 channel-id="mjh-betterhomesandgardens-FAST" tvg-id="mjh-betterhomesandgardens-FAST" tvg-logo="https://i.mjh.nz/.images/betterhomesandgardens-FAST.png" group-title="Au" , Better Homes And Gardens
 https://i.mjh.nz/betterhomesandgardens-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 channel-id="mjh-cas33-FAST" tvg-id="mjh-cas33-FAST" tvg-logo="https://i.mjh.nz/.images/cas33-FAST.png" group-title="Au" , Bathurst Throwback
+https://i.mjh.nz/cas33-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 channel-id="mjh-hockeyreplays-FAST" tvg-id="mjh-hockeyreplays-FAST" tvg-logo="https://i.mjh.nz/.images/hockeyreplays-FAST.png" group-title="Au" , Hockey Replays
 https://i.mjh.nz/hockeyreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 channel-id="mjh-mightymachines-FAST" tvg-id="mjh-mightymachines-FAST" tvg-logo="https://i.mjh.nz/.images/mightymachines-FAST.png" group-title="Au" , Mighty Machines
+https://i.mjh.nz/mightymachines-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 channel-id="mjh-cas21-FAST" tvg-id="mjh-cas21-FAST" tvg-logo="https://i.mjh.nz/.images/cas21-FAST.png" group-title="Au" , Crazy In Love
 https://i.mjh.nz/cas21-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-onthecase-FAST" tvg-id="mjh-onthecase-FAST" tvg-logo="https://i.mjh.nz/.images/onthecase-FAST.png" group-title="Au" , On The Case
+https://i.mjh.nz/onthecase-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-cas24-FAST" tvg-id="mjh-cas24-FAST" tvg-logo="https://i.mjh.nz/.images/cas24-FAST.png" group-title="Au" , Bondi Vet
 https://i.mjh.nz/cas24-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -103,13 +121,16 @@ https://i.mjh.nz/cas25-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0
 https://i.mjh.nz/cas26-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-7now-FAST" tvg-id="mjh-7now-FAST" tvg-logo="https://i.mjh.nz/.images/7now-FAST.png" group-title="Au" , 7now
-CAS27-EXT?appId=7plus&deviceType=androidtv&platformType=tv&ppId=44c616d5f57262ed59884ae4707d3d4542646b84d1187b4e13e68fabf698745c&videoType=live&accountId=5650355166001&advertId=null&uaId=null&optinDeviceType=adid&optinAdTracking=0&pc=3350&deviceId=fm-k_zfMS1it5axvWRqkRt&mstatus=true&omsdk=JnNka19hcGlzPTc%3D&ozid=b09f7dc3-3999-47c7-a09f-8dce404c0455&vid=6309089770112&yo.hb=5000&yo.ac=true&pp=csai-tv&custParams=rc%25253D5088%252526y%25253D2%252526c%25253Db%252526dpc%25253D1045%252526seriesid%25253DAUSI&y=2&c=b&dpc=1045&rc=5088&yo.lb=400|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+https://i.mjh.nz/7now-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-livgolfreplays-FAST" tvg-id="mjh-livgolfreplays-FAST" tvg-logo="https://i.mjh.nz/.images/livgolfreplays-FAST.png" group-title="Au" , LIV Golf Replays
 https://i.mjh.nz/livgolfreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-cas29-FAST" tvg-id="mjh-cas29-FAST" tvg-logo="https://i.mjh.nz/.images/cas29-FAST.png" group-title="Au" , Cooking & Culture
 https://i.mjh.nz/cas29-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-7cricket-FAST" tvg-id="mjh-7cricket-FAST" tvg-logo="https://i.mjh.nz/.images/7cricket-FAST.png" group-title="Au" , 7Cricket
+https://i.mjh.nz/7cricket-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-cas31-FAST" tvg-id="mjh-cas31-FAST" tvg-logo="https://i.mjh.nz/.images/cas31-FAST.png" group-title="Au" , Biopic
 https://i.mjh.nz/cas31-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -119,12 +140,6 @@ https://i.mjh.nz/cas32-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0
 
 #EXTINF:-1 channel-id="mjh-mytimemovienetwork-FAST" tvg-id="mjh-mytimemovienetwork-FAST" tvg-logo="https://i.mjh.nz/.images/mytimemovienetwork-FAST.png" group-title="Au" , MyTime Movie Network
 https://i.mjh.nz/mytimemovienetwork-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
-#EXTINF:-1 channel-id="mjh-ria-FAST" tvg-id="mjh-ria-FAST" tvg-logo="https://i.mjh.nz/.images/ria-FAST.png" group-title="Au" , Rialto
-https://i.mjh.nz/ria-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
-#EXTINF:-1 channel-id="mjh-pul-FAST" tvg-id="mjh-pul-FAST" tvg-logo="https://i.mjh.nz/.images/pul-FAST.png" group-title="Au" , Pulse TV
-https://i.mjh.nz/pul-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-ahm-FAST" tvg-id="mjh-ahm-FAST" tvg-logo="https://i.mjh.nz/.images/ahm-FAST.png" group-title="Au" , Action Hollywood Movies
 https://i.mjh.nz/ahm-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -138,11 +153,20 @@ https://i.mjh.nz/winnersnlosers-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20
 #EXTINF:-1 channel-id="mjh-propertydreams-FAST" tvg-id="mjh-propertydreams-FAST" tvg-logo="https://i.mjh.nz/.images/propertydreams-FAST.png" group-title="Au" , Property Dreams
 https://i.mjh.nz/propertydreams-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-7afl-FAST" tvg-id="mjh-7afl-FAST" tvg-logo="https://i.mjh.nz/.images/7afl-FAST.png" group-title="Au" , 7AFL
-https://i.mjh.nz/7afl-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:-1 channel-id="mjh-outbacktruckers-FAST" tvg-id="mjh-outbacktruckers-FAST" tvg-logo="https://i.mjh.nz/.images/outbacktruckers-FAST.png" group-title="Au" , Outback Truckers
+https://i.mjh.nz/outbacktruckers-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-anglersparadise-FAST" tvg-id="mjh-anglersparadise-FAST" tvg-logo="https://i.mjh.nz/.images/anglersparadise-FAST.png" group-title="Au" , Anglers Paradise
+https://i.mjh.nz/anglersparadise-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-onefightreplays-FAST" tvg-id="mjh-onefightreplays-FAST" tvg-logo="https://i.mjh.nz/.images/onefightreplays-FAST.png" group-title="Au" , ONE Fight Replays
 https://i.mjh.nz/onefightreplays-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-cas15-FAST" tvg-id="mjh-cas15-FAST" tvg-logo="https://i.mjh.nz/.images/cas15-FAST.png" group-title="Au" , AFLW Replays
+https://i.mjh.nz/cas15-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-homeandawayseason1-FAST" tvg-id="mjh-homeandawayseason1-FAST" tvg-logo="https://i.mjh.nz/.images/homeandawayseason1-FAST.png" group-title="Au" , Home and Away: Season 1
+https://i.mjh.nz/homeandawayseason1-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-bluelight-FAST" tvg-id="mjh-bluelight-FAST" tvg-logo="https://i.mjh.nz/.images/bluelight-FAST.png" group-title="Au" , Blue Light
 https://i.mjh.nz/bluelight-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -153,17 +177,26 @@ https://i.mjh.nz/moviesphere-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%
 #EXTINF:-1 channel-id="mjh-naturetime-FAST" tvg-id="mjh-naturetime-FAST" tvg-logo="https://i.mjh.nz/.images/naturetime-FAST.png" group-title="Au" , NatureTime
 https://i.mjh.nz/naturetime-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 channel-id="mjh-medicalnrescue-FAST" tvg-id="mjh-medicalnrescue-FAST" tvg-logo="https://i.mjh.nz/.images/medicalnrescue-FAST.png" group-title="Au" , Medical And Rescue
+https://i.mjh.nz/medicalnrescue-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 channel-id="mjh-blueheelers-FAST" tvg-id="mjh-blueheelers-FAST" tvg-logo="https://i.mjh.nz/.images/blueheelers-FAST.png" group-title="Au" , Blue Heelers
 https://i.mjh.nz/blueheelers-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 channel-id="mjh-sasaustralia-FAST" tvg-id="mjh-sasaustralia-FAST" tvg-logo="https://i.mjh.nz/.images/sasaustralia-FAST.png" group-title="Au" , SAS Australia
+https://i.mjh.nz/sasaustralia-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-acountrypractice-FAST" tvg-id="mjh-acountrypractice-FAST" tvg-logo="https://i.mjh.nz/.images/acountrypractice-FAST.png" group-title="Au" , A Country Practice
+https://i.mjh.nz/acountrypractice-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-wsl-FAST" tvg-id="mjh-wsl-FAST" tvg-logo="https://i.mjh.nz/.images/wsl-FAST.png" group-title="Au" , Surfing
+https://i.mjh.nz/wsl-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-aliennation-FAST" tvg-id="mjh-aliennation-FAST" tvg-logo="https://i.mjh.nz/.images/aliennation-FAST.png" group-title="Au" , Alien Nation
+https://i.mjh.nz/aliennation-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 channel-id="mjh-btv-FAST" tvg-id="mjh-btv-FAST" tvg-logo="https://i.mjh.nz/.images/btv-FAST.png" group-title="Au" , Bloomberg Tv
 https://i.mjh.nz/btv-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
-#EXTINF:-1 channel-id="mjh-bqt-FAST" tvg-id="mjh-bqt-FAST" tvg-logo="https://i.mjh.nz/.images/bqt-FAST.png" group-title="Au" , Bloomberg Originals
-https://i.mjh.nz/bqt-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
-#EXTINF:-1 channel-id="mjh-amc-FAST" tvg-id="mjh-amc-FAST" tvg-logo="https://i.mjh.nz/.images/amc-FAST.png" group-title="Au" , Anger Management
-https://i.mjh.nz/amc-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-htv-FAST" tvg-id="mjh-htv-FAST" tvg-logo="https://i.mjh.nz/.images/htv-FAST.png" group-title="Au" , HauntTV
 https://i.mjh.nz/htv-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -189,8 +222,173 @@ https://i.mjh.nz/paa-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3
 #EXTINF:-1 channel-id="mjh-petc-FAST" tvg-id="mjh-petc-FAST" tvg-logo="https://i.mjh.nz/.images/petc-FAST.png" group-title="Au" , Pet Collective
 https://i.mjh.nz/petc-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-shemaroo-FAST" tvg-id="mjh-shemaroo-FAST" tvg-logo="https://i.mjh.nz/.images/shemaroo-FAST.png" group-title="Au" , Shemaroo
-https://i.mjh.nz/shemaroo-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:-1 channel-id="mjh-cas22-FAST" tvg-id="mjh-cas22-FAST" tvg-logo="https://i.mjh.nz/.images/cas22-FAST.png" group-title="Au" , FAST5 Netball Replays
+https://i.mjh.nz/cas22-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-gaf-FAST" tvg-id="mjh-gaf-FAST" tvg-logo="https://i.mjh.nz/.images/gaf-FAST.png" group-title="Au" , Grace and Frankie
+https://i.mjh.nz/gaf-FAST.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-nick-jr" tvg-id="mjh-10-nick-jr" tvg-logo="https://10play.com.au/ip/s3/2023/12/20/417071931690079b4df5513d342edb73-1289374.png" group-title="Au" , Nick Jr Club
+https://i.mjh.nz/10-nick-jr.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-nickteen" tvg-id="mjh-10-nickteen" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/80794063b69ee9991510e95c601c83e7-1253578.png" group-title="Au" , NickTeen
+https://i.mjh.nz/10-nickteen.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-nicktoons" tvg-id="mjh-10-nicktoons" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/e30c04dad94ed20e16f069dd0914ecb0-1253580.png" group-title="Au" , NickToons
+https://i.mjh.nz/10-nicktoons.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-retro-cartoons" tvg-id="mjh-10-retro-cartoons" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/3e1adce8e2df3d09742ee838bbdf46be-1253560.png" group-title="Au" , Nick Rewind
+https://i.mjh.nz/10-retro-cartoons.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-nick-classics" tvg-id="mjh-10-nick-classics" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/b9d7b0881bd3510944d31ddf27fb99ea-1253556.png" group-title="Au" , Nick Classics
+https://i.mjh.nz/10-nick-classics.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-nick-movies" tvg-id="mjh-10-nick-movies" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/03b870793599a6760249eb6a5392352a-1253558.png" group-title="Au" , Nick Movies
+https://i.mjh.nz/10-nick-movies.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-reality" tvg-id="mjh-10-mtv-reality" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/f51b3f2548dfdb88949cdbd13f037679-1266119.png" group-title="Au" , MTV Reality
+https://i.mjh.nz/10-mtv-reality.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-dating" tvg-id="mjh-10-mtv-dating" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/87a0cf6001b8049ac6dd935caec9e7a4-1266117.png" group-title="Au" , MTV Dating
+https://i.mjh.nz/10-mtv-dating.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-retro" tvg-id="mjh-10-mtv-retro" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/b732245ef2430d278e0b2ef24a704cbe-1266114.png" group-title="Au" , MTV Retro
+https://i.mjh.nz/10-mtv-retro.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-entertainment" tvg-id="mjh-10-mtv-entertainment" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/3c671025176136a04748f2b810e72bf3-1266111.png" group-title="Au" , MTV Entertainment
+https://i.mjh.nz/10-mtv-entertainment.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-biggest-pop" tvg-id="mjh-10-mtv-biggest-pop" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/57fee983dfaa2afa821ae798c49a002b-1266109.png" group-title="Au" , MTV Biggest Pop
+https://i.mjh.nz/10-mtv-biggest-pop.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-love" tvg-id="mjh-10-mtv-love" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/68943f881f079398dcdf4681db2fe648-1266107.png" group-title="Au" , MTV Love
+https://i.mjh.nz/10-mtv-love.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-the-shores" tvg-id="mjh-10-mtv-the-shores" tvg-logo="https://10play.com.au/ip/s3/2023/07/11/3901f5c4522a0c36cfed8630ab781a5e-1248401.png" group-title="Au" , MTV The Shores
+https://i.mjh.nz/10-mtv-the-shores.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-judge-judy" tvg-id="mjh-10-judge-judy" tvg-logo="https://10play.com.au/ip/s3/2022/09/02/461008ac0d02137f713ec0e4883be6c4-1177265.png" group-title="Au" , Judge Judy
+https://i.mjh.nz/10-judge-judy.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-south-park" tvg-id="mjh-10-south-park" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/41a79ba6a28f011b379ea68d41c28ea0-1253591.png" group-title="Au" , South Park
+https://i.mjh.nz/10-south-park.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10play.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png" group-title="Au" , MasterChef
+https://i.mjh.nz/10-masterchef.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-survivor" tvg-id="mjh-10-survivor" tvg-logo="https://10play.com.au/ip/s3/2022/09/15/3855800fca8733d543c38d055f716437-1180229.png" group-title="Au" , Survivor
+https://i.mjh.nz/10-survivor.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png" group-title="Au" , Haunt TV
+https://i.mjh.nz/10-haunt-tv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-naturetime" tvg-id="mjh-10-naturetime" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/7b0ce57edb70336a469f938d59645bbe-1248639.png" group-title="Au" , NatureTime
+https://i.mjh.nz/10-naturetime.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-logo="https://10play.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png" group-title="Au" , True Stories
+https://i.mjh.nz/10-true-stories.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-buzzrbaywatch" tvg-id="mjh-10-buzzrbaywatch" tvg-logo="https://10play.com.au/ip/s3/2022/09/15/28b62659b93d3b56e4e1c8c2485a202b-1180224.png" group-title="Au" , Baywatch
+https://i.mjh.nz/10-buzzrbaywatch.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-prisoner" tvg-id="mjh-10-prisoner" tvg-logo="https://10play.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png" group-title="Au" , Prisoner
+https://i.mjh.nz/10-prisoner.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-merlin" tvg-id="mjh-10-merlin" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/34e0e28792f221c0b9a2629966e5bd28-1202917.png" group-title="Au" , Merlin
+https://i.mjh.nz/10-merlin.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-rush" tvg-id="mjh-10-rush" tvg-logo="https://10play.com.au/ip/s3/2023/01/24/082f00086b990e915cd774644d67484c-1213111.png" group-title="Au" , Rush
+https://i.mjh.nz/10-rush.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-wipeout-xtra" tvg-id="mjh-10-wipeout-xtra" tvg-logo="https://10play.com.au/ip/s3/2022/09/15/19002c0580466ba5115780f598a09ddf-1180219.png" group-title="Au" , Wipeout Xtra
+https://i.mjh.nz/10-wipeout-xtra.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-action-and-adventure" tvg-id="mjh-10-action-and-adventure" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/692875006a27f9580330b073e080e129-1252238.png" group-title="Au" , Xtreme Adventure
+https://i.mjh.nz/10-action-and-adventure.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-wicked-tuna" tvg-id="mjh-10-wicked-tuna" tvg-logo="https://10play.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png" group-title="Au" , Wicked Tuna
+https://i.mjh.nz/10-wicked-tuna.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png" group-title="Au" , Moviesphere
+https://i.mjh.nz/10-moviesphere.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-bold-and-the-beautiful-classics" tvg-id="mjh-10-bold-and-the-beautiful-classics" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/24ba98d5a9e362a7eab844cf00b5abec-1248618.png" group-title="Au" , Bold and The Beautiful Classics
+https://i.mjh.nz/10-bold-and-the-beautiful-classics.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-beverlyhills90210" tvg-id="mjh-10-beverlyhills90210" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/d39a21f0c9a2c64970150768b266ecea-1246001.png" group-title="Au" , Beverly Hills 90210
+https://i.mjh.nz/10-beverlyhills90210.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png" group-title="Au" , Diagnosis Murder
+https://i.mjh.nz/10-diagnosismurder.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-dynasty" tvg-id="mjh-10-dynasty" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/36fb189fc45e71ab01e7e6d22997a24c-1246037.png" group-title="Au" , Dynasty
+https://i.mjh.nz/10-dynasty.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-gunsmoke" tvg-id="mjh-10-gunsmoke" tvg-logo="https://10play.com.au/ip/s3/2023/06/30/ea73899442aeda0541d39da7187fd0ae-1246615.png" group-title="Au" , Gunsmoke
+https://i.mjh.nz/10-gunsmoke.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-hawaii_five_o" tvg-id="mjh-10-hawaii_five_o" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/78cc7f7508fbc3e0d23f28e209d006cd-1246034.png" group-title="Au" , Hawaii Five-O
+https://i.mjh.nz/10-hawaii_five_o.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-matlock" tvg-id="mjh-10-matlock" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/05e69d623cea2b74ae1637c40e02cdd7-1246022.png" group-title="Au" , Matlock
+https://i.mjh.nz/10-matlock.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mission_impossible" tvg-id="mjh-10-mission_impossible" tvg-logo="https://10play.com.au/ip/s3/2023/07/11/dc85f360d18a325975756c734eb17b69-1248406.png" group-title="Au" , Mission Impossible
+https://i.mjh.nz/10-mission_impossible.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-the-graham-norton-show" tvg-id="mjh-10-the-graham-norton-show" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png" group-title="Au" , The Graham Norton Show
+https://i.mjh.nz/10-the-graham-norton-show.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-bondi-rescue" tvg-id="mjh-10-bondi-rescue" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/7ddc52ba7477554f24bd1ad819b1d593-1248612.png" group-title="Au" , Bondi Rescue
+https://i.mjh.nz/10-bondi-rescue.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png" group-title="Au" , Medical Emergency
+https://i.mjh.nz/10-medical-emergency.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png" group-title="Au" , 48 Hours
+https://i.mjh.nz/10-forty-eight-hours.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-americas-next-top-model" tvg-id="mjh-10-americas-next-top-model" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/8db83f030cafec640ddec14612d03daa-1246018.png" group-title="Au" , America's Next Top Model
+https://i.mjh.nz/10-americas-next-top-model.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-survivor-us" tvg-id="mjh-10-survivor-us" tvg-logo="https://10play.com.au/ip/s3/2023/08/02/fbd539f7b8a328cd9e59fd0294dab559-1253157.png" group-title="Au" , Survivor US
+https://i.mjh.nz/10-survivor-us.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png" group-title="Au" , Becker
+https://i.mjh.nz/10-becker.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-happy_days" tvg-id="mjh-10-happy_days" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/060cdfa84b76c04285a91099d1dc5cfb-1246013.png" group-title="Au" , Happy Days
+https://i.mjh.nz/10-happy_days.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-i_love_lucy" tvg-id="mjh-10-i_love_lucy" tvg-logo="https://10play.com.au/ip/s3/2023/06/30/ee75d540e6cdda6df5044708edda6500-1246588.png" group-title="Au" , I Love Lucy
+https://i.mjh.nz/10-i_love_lucy.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-the-drew-barrymore-show" tvg-id="mjh-10-the-drew-barrymore-show" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/eece7451006c61ee8e02e78803b8eb86-1253586.png" group-title="Au" , The-Drew-Barrymore-Show
+https://i.mjh.nz/10-the-drew-barrymore-show.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-the-brady-bunch" tvg-id="mjh-10-the-brady-bunch" tvg-logo="https://10play.com.au/ip/s3/2023/08/03/a27d1f1ddc3025771eb7e345eaa1d903-1253587.png" group-title="Au" , The Brady Bunch
+https://i.mjh.nz/10-the-brady-bunch.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-the-twilight-zone" tvg-id="mjh-10-the-twilight-zone" tvg-logo="https://10play.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png" group-title="Au" , The Twilight Zone
+https://i.mjh.nz/10-the-twilight-zone.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-geckotv" tvg-id="mjh-10-geckotv" tvg-logo="https://10play.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png" group-title="Au" , Gecko TV
+https://i.mjh.nz/10-geckotv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtv-drama" tvg-id="mjh-10-mtv-drama" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/786a6fc1b188d22e46a15061dcf15d2b-1266105.png" group-title="Au" , MTV Drama
+https://i.mjh.nz/10-mtv-drama.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-mtvmusic" tvg-id="mjh-10-mtvmusic" tvg-logo="https://10play.com.au/ip/s3/2023/10/30/8c9a868fca9476ff5ca52c8708fe93c4-1276113.png" group-title="Au" , MTV Xmas
+https://i.mjh.nz/10-mtvmusic.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-seasonal_movies" tvg-id="mjh-10-seasonal_movies" tvg-logo="https://10play.com.au/ip/s3/2022/11/13/41709115cdba2529e43f327648d53fe4-1196644.png" group-title="Au" , Christmas Movies
+https://i.mjh.nz/10-seasonal_movies.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-thedoghouse" tvg-id="mjh-10-thedoghouse" tvg-logo="https://10play.com.au/ip/s3/2023/09/20/ccfe09abf555996e0901c1ebe582d65a-1265121.png" group-title="Au" , The Dog House
+https://i.mjh.nz/10-thedoghouse.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-10-worldoffootball" tvg-id="mjh-10-worldoffootball" tvg-logo="https://10play.com.au/ip/s3/2023/10/19/b347c9daf6c559ff203e458fbfb4640a-1273094.png" group-title="Au" , World Of Football
+https://i.mjh.nz/10-worldoffootball.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-tvsn-shopping-au" tvg-id="mjh-tvsn-shopping-au" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" tvg-chno="16" group-title="Au" , TVSN Shopping
 https://i.mjh.nz/tvsn-shopping-au.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -237,6 +435,9 @@ https://i.mjh.nz/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/
 #EXTINF:-1 channel-id="mjh-sbs-world-watch" tvg-id="mjh-sbs-world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35" group-title="Au" , SBS World Watch
 https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 channel-id="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="Au" , SBS Chill
+https://i.mjh.nz/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
 #EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="Au" , Sky Racing #1
 https://i.mjh.nz/sky-racing-1.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
@@ -245,6 +446,12 @@ https://i.mjh.nz/sky-racing-2.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010
 
 #EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="Au" , Sky Racing - Thoroughbred Central
 https://i.mjh.nz/sky-racing-thoroughbred.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-bloomberg-tv" tvg-id="mjh-bloomberg-tv" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="Au" , Bloomberg TV
+https://i.mjh.nz/bloomberg-tv.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="Au" , Sky News Now
+https://i.mjh.nz/sky-news-now.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-good-dot" tvg-id="mjh-good-dot" tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="Au" , GOOD.
 https://i.mjh.nz/good-dot.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
@@ -260,7 +467,6 @@ https://i.mjh.nz/al-jazeera.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0
 
 #EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World" , Channel News Asia (CNA)
 https://i.mjh.nz/channel-news-asia.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
 #EXTINF:-1,EBS
 http://183.98.98.136:9981/stream/channelid/622397827
 #EXTINF:-1,EBS
